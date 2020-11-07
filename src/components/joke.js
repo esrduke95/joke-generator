@@ -24,7 +24,7 @@ class JokeGen extends Component {
 
      return (
          <div className='OneJoke'>
-            <button type="button" id="press4Joke" className="btn btn-success"
+            <button type="button" id="press4Joke" className="btn btn-success"></button>
          </div>
      );
    }
