@@ -1,4 +1,5 @@
 import React from 'react';
+// import getJokes from '../helpers/data/jokeData';
 import './App.scss';
 
 class App extends React.Component {
